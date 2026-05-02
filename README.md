@@ -9,7 +9,7 @@ The project focuses on creating a clean, user-friendly, and visually engaging st
 
 ## 🚀 Live Demo
 
-🔗 https://yourusername.github.io/noxx-ott-platform/
+https://gangadharkuratti790-ship-it.github.io/NOXX--OTT_Website/
 
 ---
 
