@@ -39,3 +39,5 @@ This project was initially developed as a college assignment and later improved 
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+## Live Demo 
+https://www.figma.com/proto/wCSfrcuYXFOAJMtAfM2Vo0/Untitled?node-id=153-424&p=f&t=wYmXkpokaF6PguyX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=153%3A422
